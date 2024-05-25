@@ -1,0 +1,326 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: 'BEE079A961E4E6068D0D2DD0D070549F',
+    participant: undefined
+  },
+  messageTimestamp: 1716667111,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/35306315_396393356722476_4514778963668976637_n.enc?ccb=11-4&oh=01_Q5AaIOPDgYIuHdFP_6AW13i3NU3M1crsuMIvHbqCkYl3JEKy&oe=66799A0E&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 1,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/35306315_396393356722476_4514778963668976637_n.enc?ccb=11-4&oh=01_Q5AaIOPDgYIuHdFP_6AW13i3NU3M1crsuMIvHbqCkYl3JEKy&oe=66799A0E&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__3aa2528e-e7a5-4b35-beb3-07f3fca4c9d1',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6cf8a384-4d23-44c0-8375-6461b5f655a9',
+  keyword: 'key_b0b230e7-98d5-4d93-807c-fed0a868eae8',
+  answer: 'Esta es una nota de voz',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '03abb5f0daf4407a057a58bdeb02cdc6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: '5674D37CE561871B9E21BA6A78D37BC1',
+    participant: undefined
+  },
+  messageTimestamp: 1716667125,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/19396374_972393970821428_5143607573030691989_n.enc?ccb=11-4&oh=01_Q5AaIIro02Qb9D0Z4b7lVglWd0tFxG5dV-QRbfpUX5RoOg03&oe=6679A3D8&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 4,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/19396374_972393970821428_5143607573030691989_n.enc?ccb=11-4&oh=01_Q5AaIIro02Qb9D0Z4b7lVglWd0tFxG5dV-QRbfpUX5RoOg03&oe=6679A3D8&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__f1c5c635-7a71-40ff-befa-bbd8f9f3f30a',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6cf8a384-4d23-44c0-8375-6461b5f655a9',
+  keyword: 'key_b0b230e7-98d5-4d93-807c-fed0a868eae8',
+  answer: 'Esta es una nota de voz',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '03abb5f0daf4407a057a58bdeb02cdc6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612533741@s.whatsapp.net',
+    fromMe: false,
+    id: '035DD9455FBADCC1C83AB5B15928C1A2',
+    participant: undefined
+  },
+  messageTimestamp: 1716667144,
+  pushName: 'Luis',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/29390150_7964632820215062_6348765998886863263_n.enc?ccb=11-4&oh=01_Q5AaIIVZsXWZ0DCswPiEfXQqx6Qa7kzmnPLxtj2-zg2FcRZ7&oe=6679AA24&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 4,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/29390150_7964632820215062_6348765998886863263_n.enc?ccb=11-4&oh=01_Q5AaIIVZsXWZ0DCswPiEfXQqx6Qa7kzmnPLxtj2-zg2FcRZ7&oe=6679AA24&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__52bc8842-c8a1-4384-943a-02c048654e12',
+  from: '5492612533741'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6cf8a384-4d23-44c0-8375-6461b5f655a9',
+  keyword: 'key_b0b230e7-98d5-4d93-807c-fed0a868eae8',
+  answer: 'Esta es una nota de voz',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '03abb5f0daf4407a057a58bdeb02cdc6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612528944@s.whatsapp.net',
+    fromMe: false,
+    id: '52156A1A7807F47B28B926DAAB417269',
+    participant: undefined
+  },
+  messageTimestamp: 1716667166,
+  pushName: '🦋 Cynthia 🦋',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que precio el arroz con pollo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que precio el arroz con pollo',
+  from: '5492612528944'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a0014ccd-db7b-48fa-8d2e-a9e8306ddb28',
+  keyword: 'key_a6aa811e-b3fc-492c-a912-d3e4bbde3e66',
+  answer: 'Este es el flujo Welcome',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 100,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0672610dd0780ceecf0306534afc4ebc'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612528944@s.whatsapp.net',
+    fromMe: false,
+    id: '29E8AF872BF27345D7C6C809C0ECAD43',
+    participant: undefined
+  },
+  messageTimestamp: 1716667179,
+  pushName: '🦋 Cynthia 🦋',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pollos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pollos',
+  from: '5492612528944'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a0014ccd-db7b-48fa-8d2e-a9e8306ddb28',
+  keyword: 'key_a6aa811e-b3fc-492c-a912-d3e4bbde3e66',
+  answer: 'Este es el flujo Welcome',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 100,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0672610dd0780ceecf0306534afc4ebc'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612528944@s.whatsapp.net',
+    fromMe: false,
+    id: '7C89B97FD507B37B5894E66C6B3D3417',
+    participant: undefined
+  },
+  messageTimestamp: 1716667187,
+  pushName: '🦋 Cynthia 🦋',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/19456211_3635764370011570_8497080719688225474_n.enc?ccb=11-4&oh=01_Q5AaIIYcuv7RrN7KMxpj9_W7JGsGvSjn6F_KmHgomAYUNLnW&oe=6679A889&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 1,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/19456211_3635764370011570_8497080719688225474_n.enc?ccb=11-4&oh=01_Q5AaIIYcuv7RrN7KMxpj9_W7JGsGvSjn6F_KmHgomAYUNLnW&oe=6679A889&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__682af094-e124-41f4-9643-40bfad830197',
+  from: '5492612528944'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6cf8a384-4d23-44c0-8375-6461b5f655a9',
+  keyword: 'key_b0b230e7-98d5-4d93-807c-fed0a868eae8',
+  answer: 'Esta es una nota de voz',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '03abb5f0daf4407a057a58bdeb02cdc6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492612528944@s.whatsapp.net',
+    fromMe: false,
+    id: '6864FB7885BC4A16421A5CB1383C9433',
+    participant: undefined
+  },
+  messageTimestamp: 1716667199,
+  pushName: '🦋 Cynthia 🦋',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/381619354_3764683860469738_8464780999150963993_n.enc?ccb=11-4&oh=01_Q5AaICaDsUZEioTgdsdRJzecGoHZnuK07wa3DDT6UnEy0ONK&oe=66799D99&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 1,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/381619354_3764683860469738_8464780999150963993_n.enc?ccb=11-4&oh=01_Q5AaICaDsUZEioTgdsdRJzecGoHZnuK07wa3DDT6UnEy0ONK&oe=66799D99&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__cd4aaf11-fd24-4a85-94f0-1e9da1bcabb0',
+  from: '5492612528944'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6cf8a384-4d23-44c0-8375-6461b5f655a9',
+  keyword: 'key_b0b230e7-98d5-4d93-807c-fed0a868eae8',
+  answer: 'Esta es una nota de voz',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '03abb5f0daf4407a057a58bdeb02cdc6'
+}
